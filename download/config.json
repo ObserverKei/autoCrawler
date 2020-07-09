@@ -1,0 +1,12 @@
+{
+  "rawdevart.com":{
+    "homeHtmlToPageHtmlRule":{
+      "start":"",
+      "end":"",
+      "toPageHtmlRule":{
+        "start":"",
+        "end":"",
+      },
+    },
+  },
+}
