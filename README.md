@@ -35,6 +35,7 @@
 	
 	如图步骤所示   
 	
+![RUNOOB 图标](https://github.com/ObserverKei/autoCrawler/tree/master/download/autoCrawler.png)
 ![image](https://github.com/ObserverKei/autoCrawler/tree/master/download/autoCrawler.png)
 	本程序将使用面向对象的编程思维来进行构建，如图所示，设计一种蜘蛛，专门爬取对应网络的目标数据，  
 	蜘蛛在workSpace工作空间进行工作，蜘蛛具有的action执行动作，以及state自身目前的状态，蜘蛛还可以携带workData工作数据。如下图所示。  
