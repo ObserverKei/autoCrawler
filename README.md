@@ -46,6 +46,7 @@
 	利用控制台调试，能得到输出结果就行。  
 ## 3. 设计并编写类(class )和子程序(routine) 。 
 ## 4. 创建并命名变量(variable)和具名常量(named constant)
+```c++
 template<D>  
 class Spider {  
 public:  
@@ -66,9 +67,11 @@ private:
 	D Data;  
 	queue<pair<D, workFunction> > *m_workList;  
 };  
-
+```
 ## 5. 选择控制结构(control structure) ,组织语句块。
+	```c++ 
 	while (spider.do());  
+	```
 ## 6. 对你的代码进行单元测试和集成测试,并排除其中的错误。
 	//待定  
 ## 7. 评审开发团队其他成员的底层设计和代码,并让他们评审你的工作。
