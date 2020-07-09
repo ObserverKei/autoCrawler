@@ -1,0 +1,11 @@
+{
+  "make": "make -f Makefile",
+  "src/*.cpp": {
+    "hp": "include/public.h", 
+    "alternate": "include/{}.h"
+  },
+  "include/*.h": {
+    "hp": "include/public.h", 
+    "alternate": "src/{}.c"
+  }
+}
